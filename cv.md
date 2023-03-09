@@ -1,9 +1,6 @@
 # Ilya Nishtun
 ### Junior frontend developer
 ![Ilya Nishtun](https://raw.githubusercontent.com/ilyanishtun/stage0/gh-pages/assets/img/me.png) 
-
----
-
 ## Contacts
 * Phone: +7 705 814 17 39
 * Telegram: i_nishtun
