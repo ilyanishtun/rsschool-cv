@@ -1,5 +1,5 @@
 # Ilya Nishtun
 ### Junior frontend developer
-![Ilya Nishtun](https://raw.githubusercontent.com/ilyanishtun/rsschool-cv/gh-pages/me.png)
+![Ilya Nishtun](https://raw.githubusercontent.com/ilyanishtun/stage0/gh-pages/assets/img/me.png) 
 
 ---
